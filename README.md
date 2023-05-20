@@ -7,6 +7,7 @@
 - Како input треба да се внесе еден user и листа на users, во случајов листа од 2 корисници.
 - Тест случаи со кои ќе се опфатат сите можни исходи се:
 (user, user[0], user[1])
+
 (1) null, null, null, null
    user0, username0, user0@gmail.com, user@
    user1, username1, user1@gmail.com, P@ss
